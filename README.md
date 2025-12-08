@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Scout</h1>
 <h3 align="center">Im a student learning computer science. I love coding. But my real passion is hardware. I love making pc's , making Ethernet cables shorter, and getting hands on with the machine. I want to be a Disney imagineer. someone who works on the animatronics, and makes the magic work.</h3>
 <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=scout-mosley&label=Profile%20views&color=0e75b6&style=flat" alt="scout-mosley" /> </p>
+
 - Right now I'm working on **making a pc.**
 
 - I’m currently learning **linux a lot better.**
