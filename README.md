@@ -5,7 +5,7 @@
 
 - I’m currently learning **linux a lot better.**
 
-- All of my projects are available at [scout-mosley](scout-mosley)
+- All of my projects are available at [https://github.com/scout-mosley?tab=repositories](https://github.com/scout-mosley?tab=repositories)
 
 - You can reach me at my email. **scout.mosley@stu.ocsb.ca**
 
