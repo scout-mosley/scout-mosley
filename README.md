@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scout-mosley)](https://github.com/scout-mosley/github-readme-stats)
 <!--
 **scout-mosley/scout-mosley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
