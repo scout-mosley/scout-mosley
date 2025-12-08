@@ -11,9 +11,6 @@
 
 - A fun fact about me is that **I can solve a Rubik's cube in under 30 seconds.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 
 
