@@ -16,3 +16,7 @@
 <br>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="250" height="250"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="250" height="250"/> </a> </p>
+<p align="center"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="250" height="250"/> </a>
+<p align="center"> <a href="![image](blob:chrome-untrusted://media-app/ebe4877a-9f67-4453-b497-ce7e3f716da5)
+/" target="_blank" rel="noreferrer"> <img src="![image](blob:chrome-untrusted://media-app/ebe4877a-9f67-4453-b497-ce7e3f716da5)
+" alt="linux" width="250" height="250"/> </a>
