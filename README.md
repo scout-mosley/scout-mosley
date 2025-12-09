@@ -19,6 +19,4 @@
 <p align="center"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="250" height="250"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="250" height="250"/> </a> </p>
 <br>
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?scout-mosley=anuraghazra&theme=shadow_blue&show_icons=true)
-
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=scout-mosley)](https://git.io/streak-stats)
