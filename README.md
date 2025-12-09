@@ -19,4 +19,9 @@
 <p align="center"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="250" height="250"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="250" height="250"/> </a> </p>
 <br>
 <br>
-[![GitHub Streak](https://streak-stats.demolab.com?user=scout-mosley)](https://git.io/streak-stats)
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/scout-mosley)  
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/scout-mosley/contributions?format=svg&private=false)  
+
