@@ -18,3 +18,8 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="250" height="250"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="250" height="250"/> </a> </p>
 
+<p>
+  <a href="https://vaunt.dev">
+    <img src="https://api.vaunt.dev/v1/github/entities/{{scout-mosley}}/contributions?format=svg" width="350" />
+  </a>
+</p>
