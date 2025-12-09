@@ -20,7 +20,7 @@
 <br>
 <br>
 <h2 align="center">Here are my stats.</h2>
-<h3 align="center">There is not alot here but i am adding to it and learning more everyday.🙂</h3>
+<h3 align="center">There is not a lot here but I am adding to it and learning more everyday.🙂</h3>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/scout-mosley)  
