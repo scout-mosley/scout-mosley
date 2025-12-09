@@ -15,7 +15,6 @@
 - A fun fact about me is that **I can solve a Rubik's cube in under 30 seconds.**
 <br>
 <br>
-[![trophy](https://github-profile-trophy.vercel.app/?scout-mosley=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="250" height="250"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="250" height="250"/> </a> </p>
 <br>
